@@ -18,9 +18,6 @@ body {
   padding: 1rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
-  /* min-height: 100vh; */
-
-  /* border: solid 1px green; */
   background-color: rgb(221, 207, 207, 0.3);
   border-radius: 2px;
 }
@@ -40,8 +37,6 @@ header form {
   display: flex;
   flex-direction: row;
   justify-content: center;
-
-  /* border: solid 1px tomato; */
   padding: 1rem;
   margin-bottom: 0.5rem;
 }
@@ -75,9 +70,7 @@ header button {
 }
 
 .card-data {
-  /*section*/
-  /* border: 1px solid red; */
-  padding: 8rem; /*8*/
+  padding: 8rem;
   margin-bottom: 14rem;
   background-color: rgba(61, 60, 60, 0.3);
   border-radius: 2px;
@@ -85,8 +78,6 @@ header button {
 }
 
 .card-weather {
-  /*main*/
-  /* border: 1px solid red; */
   padding: 8rem;
   margin-bottom: 14rem;
   background-color: rgba(61, 60, 60, 0.3);
